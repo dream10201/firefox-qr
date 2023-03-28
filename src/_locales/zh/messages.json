@@ -24,7 +24,7 @@
     "message": "在线解码"
   },
   "footer_from": {
-    "message": "QRScaner 来自 :"
+    "message": "QR Code 来自 :"
   },
   "autoClose": {
     "message": "自动关闭"
