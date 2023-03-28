@@ -1,0 +1,25 @@
+{
+  "extensionName": {
+    "message": "QRScanner"
+  },
+  "extensionDescription": {
+    "message": "Scan and decode QR Code in a webpage. Internet is not required. "
+  },
+  "cmScanQR": {
+    "message": "Decode QR"
+  },
+  "cmScanQRscr": {
+    "message": "Scan QR"
+  },
+  "Close": { "message": "Close" },
+  "adjRetry": { "message": "Recognize Partial Region" },
+  "Open": { "message": "Open" },
+  "decodeOnline": { "message": "Decode Online" },
+  "footer_from": { "message": "QRScaner from :"},
+  "autoClose": { "message": "Auto Close"},
+  "help1": { "message": "Use mouse wheel to resize, then draw a marquee to chop."},
+  "otsu1": { "message": "Enhance Contrast (Shortcut: C)"},
+  "inv1": { "message": "Invert Color (Shortcut: I)"},
+  "scrmode": { "message": "Fetch QR Code via Screenshot"},
+  "scrmode_d": { "message": "('Scan QR' will always present in context menu)"}
+}
