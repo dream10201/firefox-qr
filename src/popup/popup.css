@@ -12,7 +12,9 @@ button {
 	margin: .5em;
 }
 
-#background, #info, #clip {
+#background,
+#info,
+#clip {
 	position: absolute;
 	left: 0;
 	top: 0;
@@ -25,8 +27,7 @@ button {
 	text-align: center;
 }
 
-#clip-tools-out {
-}
+#clip-tools-out {}
 
 #clip-tools {
 	box-sizing: border-box;
@@ -51,16 +52,19 @@ button {
 	overflow: auto;
 }
 
-#info, #clip {
+#info,
+#clip {
 	background-color: rgba(0, 0, 0, .7);
 	overflow: auto;
 }
 
-#info .failed, #info.is-failed .success {
+#info .failed,
+#info.is-failed .success {
 	display: none;
 }
 
-#info.is-failed .failed, #info .success {
+#info.is-failed .failed,
+#info .success {
 	display: initial;
 }
 
