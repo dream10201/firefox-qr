@@ -1,9 +1,9 @@
 {
   "extensionName": {
-    "message": "QR Code X"
+    "message": "QR Code Full"
   },
   "extensionDescription": {
-    "message": "Scan and decode QR Code X in a webpage. Internet is not required. "
+    "message": "Scan and decode QR Code Full in a webpage. Internet is not required. "
   },
   "cmScanQR": {
     "message": "Decode QR"
@@ -24,7 +24,7 @@
     "message": "Decode Online"
   },
   "footer_from": {
-    "message": "QR Code X from :"
+    "message": "QR Code Full from :"
   },
   "autoClose": {
     "message": "Auto Close"
@@ -39,7 +39,7 @@
     "message": "Invert Color (Shortcut: I)"
   },
   "scrmode": {
-    "message": "Fetch QR Code X via Screenshot"
+    "message": "Fetch QR Code Full via Screenshot"
   },
   "scrmode_d": {
     "message": "('Scan QR' will always present in context menu)"
