@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "QR Code"
+    "message": "QQR Code X"
   },
   "extensionDescription": {
     "message": "扫描并解码网页中的二维码。无需互联网。"
@@ -24,7 +24,7 @@
     "message": "在线解码"
   },
   "footer_from": {
-    "message": "QR Code 来自 :"
+    "message": "QR Code X 来自 :"
   },
   "autoClose": {
     "message": "自动关闭"
